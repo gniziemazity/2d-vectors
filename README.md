@@ -1,2 +1,2 @@
 # 2d-vectors
-2D vectors in JavaScript
+2D vectors explained using JavaScript
