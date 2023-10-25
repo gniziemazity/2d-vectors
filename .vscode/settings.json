@@ -1,0 +1,10 @@
+{
+  "deno.lint": true,
+  "editor.formatOnSave": true,
+  "[typescript]": { "editor.defaultFormatter": "denoland.vscode-deno" },
+  "bun.runtime": "/home/kolaflash/.bun/bin/bun",
+  "bun.debugTerminal.enabled": true,
+  "bun.debugTerminal.stopOnEntry": false,
+  "rust-analyzer.linkedProjects": ["./Cargo.toml"],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}
